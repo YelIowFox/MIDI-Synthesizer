@@ -1,5 +1,5 @@
 # MIDI-Synthesizer
-##Transforming old synthesizer into MIDI device
+Transforming old synthesizer into MIDI device
 ---
 **Version 1.0.0**
 
