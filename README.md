@@ -19,7 +19,7 @@ loopMIDISetup.exe // virtual MIDI In/Out Port program executable
 ---
 **1. Virtual MIDI In/Out Port setup:**
 ---
-Start the [loopMIDISetup.exe](MIDI-Synthesizer.git) and follow the steps through the installation. After the installation is finished  open the application and select the setup box. Create new virtual MIDI In/Out Port by clicking the '+' button.
+Start the [loopMIDISetup.exe](YelIowFox/MIDI-Synthesizer.git) and follow the steps through the installation. After the installation is finished  open the application and select the setup box. Create new virtual MIDI In/Out Port by clicking the '+' button.
 
 ![](images/loopMIDI.PNG)
 
