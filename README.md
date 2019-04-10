@@ -39,4 +39,7 @@ MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 
 ![](images/MonitorRate.PNG)
 
+You can access the settings tab of the Serial-MIDI by:  
+File->Preferences
+
 ---
