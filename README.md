@@ -33,8 +33,8 @@ Newer version of the program [here](https://www.tobias-erichsen.de/software/loop
 Serial port - port of arduino *// in this case "COM3"*  
 MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 ![](images/Hairless-MIDI_Serial.PNG)  
-Newer version of the program [here](http://projectgus.github.io/hairless-midiserial/)
-* Go to File->Preferences and change the baud rate to match [the rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino)
+Newer version of the program [here](http://projectgus.github.io/hairless-midiserial/).
+* Go to File->Preferences and change the baud rate to match [the rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino):
 
 ![](images/BridgeRate.PNG) ![](images/ArduRate.PNG)
 
