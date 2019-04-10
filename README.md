@@ -14,7 +14,7 @@ MIDI_Keyboard //arduino project folder
 
 hairless-midiserial // virtual Serial-MIDI bridge program
 
-loopMIDISetup.exe // *virtual MIDI In/Out Port*
+loopMIDISetup.exe // virtual MIDI In/Out Port program executable
 
 ```
 
