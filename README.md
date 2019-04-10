@@ -30,8 +30,8 @@ You can download newer version of the program [here](https://www.tobias-erichsen
 ---
 * Copy the [ardumidi](hairless-midiserial) folder to your arduino library folder
 * Start [hairless-midiserial.exe](hairless-midiserial) and select as follows:  
-Serial port - port of arduino// in this case "COM3"  
-MIDI In/Out - virtual MIDI In/Out// "loopMIDI"
+Serial port - port of arduino *// in this case "COM3"*  
+MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 ![](images/Hairless-MIDI_Serial.PNG)
 
 ---
