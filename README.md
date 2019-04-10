@@ -28,8 +28,8 @@ You can download newer version of the program [here](https://www.tobias-erichsen
 ---
 **2. Virtual Serial-MIDI bridge setup:**
 ---
-* Copy the `ardumidi` folder from [hairless-midiserial](hairless-midiserial) to your arduino library folder
-* Start `hairless-midiserial.exe` from [hairless-midiserial](hairless-midiserial) and choose the
+* Copy the [ardumidi](hairless-midiserial) folder to your arduino library folder
+* Start [hairless-midiserial.exe](hairless-midiserial) and choose the
 ![](images/Hairless-MIDI_Serial.PNG)
 
 ---
