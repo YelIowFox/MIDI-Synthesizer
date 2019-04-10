@@ -5,6 +5,9 @@ Transforming old synthesizer into MIDI device
 
 At this stage the MIDI device 5 din connector doesn't work therefore the Serial-MIDI bridge can't be done,  the solution for this problem at the moment is a virtual Serial-MIDI bridge. For this I included two simple applications.  One for virtual MIDI In/Out Port and one for the virtual Serial-MIDI bridge.
 
+**Requirements:**
+Only for Windows users 7 or higher.
+
 ---
 Included Files:
 ---
