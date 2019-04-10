@@ -33,13 +33,13 @@ You can download newer version of the program [here](https://www.tobias-erichsen
 Serial port - port of arduino *// in this case "COM3"*  
 MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 ![](images/Hairless-MIDI_Serial.PNG)
-* Make sure that the [baud rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino),Serial monitor  and the Serial-MIDI bridge are the same:
+* Make sure that the [baud rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino),Serial monitor and the Hairless MIDI are the same:
 
 ![](images/BridgeRate.PNG) ![](images/ArduRate.PNG)
 
 ![](images/MonitorRate.PNG)
 
-You can access the settings tab of the Serial-MIDI by:  
-File->Preferences
+You can access the settings tab of the Hairless MIDI by:  
+File-->Preferences
 
 ---
