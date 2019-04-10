@@ -7,6 +7,7 @@ At this stage the MIDI device 5 din connector doesn't work therefore the Serial-
 
 ---
 **1. Virtual MIDI In/Out Port setup:**
+---
 
 Start the `loopMIDISetup.exe` and follow the steps through the installation
 
