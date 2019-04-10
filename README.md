@@ -26,6 +26,8 @@ Start the `loopMIDISetup.exe` and follow the steps through the installation. Aft
 
 ![](images/loopMIDI.PNG)
 
+You can download newer version of the program [here](https://www.tobias-erichsen.de/software/loopmidi.html).
+
 ---
 **2. Virtual Serial-MIDI bridge setup:**
 ---
