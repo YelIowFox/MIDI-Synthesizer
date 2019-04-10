@@ -23,7 +23,7 @@ Start the [loopMIDISetup.exe](https://github.com/YelIowFox/MIDI-Synthesizer.git)
 
 ![](images/loopMIDI.PNG)
 
-You can download newer version of the program [here](https://www.tobias-erichsen.de/software/loopmidi.html).
+Newer version of the program [here](https://www.tobias-erichsen.de/software/loopmidi.html).
 
 ---
 **2. Virtual Serial-MIDI bridge setup:**
