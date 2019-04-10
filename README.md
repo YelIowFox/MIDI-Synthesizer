@@ -37,6 +37,6 @@ MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 
 ![](images/BridgeRate.PNG) ![](images/ArduRate.PNG)
 
-![](images/MonitorRate)
+![](images/MonitorRate.PNG)
 
 ---
