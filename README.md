@@ -35,6 +35,6 @@ MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 ![](images/Hairless-MIDI_Serial.PNG)
 * Make sure that the baud rate of the arduino is the same as the rate of the Serial-MIDI bridge:
 
-![](images/BridgeRate.PNG)
+![](images/BridgeRate.PNG) ![](images/ArduinoRate.PNG)
 
 ---
