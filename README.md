@@ -37,7 +37,6 @@ Newer version of the program [here](http://projectgus.github.io/hairless-midiser
 * Make sure that the [baud rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino) and the Hairless MIDI are the same:
 
 ![](images/BridgeRate.PNG) ![](images/ArduRate.PNG)
-
 You can access the settings tab of the Hairless MIDI by:  
 File-->Preferences
 
