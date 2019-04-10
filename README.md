@@ -41,6 +41,4 @@ Newer version of the program [here](http://projectgus.github.io/hairless-midiser
 You can access the settings tab of the Hairless MIDI by:  
 File-->Preferences
 
-
-
 ---
