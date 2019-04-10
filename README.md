@@ -27,4 +27,9 @@ Start the `loopMIDISetup.exe` and follow the steps through the installation. Aft
 ![](images/loopMIDI.PNG)
 
 ---
+**2. Virtual Serial-MIDI bridge setup:**
+---
+
 ![](images/Hairless-MIDI_Serial.PNG)
+
+---
