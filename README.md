@@ -33,8 +33,10 @@ You can download newer version of the program [here](https://www.tobias-erichsen
 Serial port - port of arduino *// in this case "COM3"*  
 MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 ![](images/Hairless-MIDI_Serial.PNG)
-* Make sure that the [baud rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino) is the same as the rate of the Serial-MIDI bridge:
+* Make sure that the [baud rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino),Serial monitor  and the Serial-MIDI bridge are the same:
 
 ![](images/BridgeRate.PNG) ![](images/ArduRate.PNG)
+
+![](images/MonitorRate)
 
 ---
