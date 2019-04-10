@@ -9,6 +9,14 @@ At this stage the MIDI device 5 din connector doesn't work therefore the Serial-
 
 Included Files:
 ---
+```
+MIDI_Keyboard //*.ino file*
+
+hairless-midiserial // *virtual Serial-MIDI bridge program*
+
+loopMIDISetup.exe // *virtual MIDI In/Out Port*
+
+```
 
 ---
 
