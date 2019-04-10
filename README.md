@@ -6,7 +6,6 @@ Transforming old synthesizer into MIDI device
 At this stage the MIDI device 5 din connector doesn't work therefore the Serial-MIDI bridge can't be done,  the solution for this problem at the moment is a virtual Serial-MIDI bridge. For this I included two simple applications.  One for the virtual MIDI In/Out Port and one for the virtual Serial-MIDI bridge.
 
 ---
-
 Included Files:
 ---
 ```
@@ -18,10 +17,8 @@ loopMIDISetup.exe // virtual MIDI In/Out Port program executable
 ```
 
 ---
-
 **1. Virtual MIDI In/Out Port setup:**
 ---
-
 Start the `loopMIDISetup.exe` and follow the steps through the installation. After the installation is finished  open the application and select the setup box. Create new virtual MIDI In/Out Port by clicking the '+' button.
 
 ![](images/loopMIDI.PNG)
@@ -31,7 +28,8 @@ You can download newer version of the program [here](https://www.tobias-erichsen
 ---
 **2. Virtual Serial-MIDI bridge setup:**
 ---
-
+* First copy the `ardumidi` folder from `hairless-midiserial` to your arduino library folder
+* 
 ![](images/Hairless-MIDI_Serial.PNG)
 
 ---
