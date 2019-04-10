@@ -22,9 +22,9 @@ loopMIDISetup.exe // virtual MIDI In/Out Port program executable
 **1. Virtual MIDI In/Out Port setup:**
 ---
 
-Start the `loopMIDISetup.exe` and follow the steps through the installation.
+Start the `loopMIDISetup.exe` and follow the steps through the installation. After the installation is finished  open the application and select the setup box. Create new virtual MIDI In/Out Port by clicking the '+' button.
 
-![asdasdasdasdasdadsasdasdasdasd](images/loopMIDI.PNG)
+![](images/loopMIDI.PNG)
 
 ---
 ![](images/Hairless-MIDI_Serial.PNG)
