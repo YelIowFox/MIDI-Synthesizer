@@ -28,7 +28,7 @@ uint8_t keyToMidiMap[NUM_ROWS][NUM_COLS];
 
 // bitmasks for scanning columns
 int bits[] =
-{ 
+{
   B00000001,
   B00000010,
   B00000100,
