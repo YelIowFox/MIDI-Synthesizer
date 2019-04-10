@@ -34,13 +34,13 @@ Serial port - port of arduino *// in this case "COM3"*
 MIDI In/Out - virtual MIDI In/Out Port *// "loopMIDI Port"*
 ![](images/Hairless-MIDI_Serial.PNG)  
 Newer version of the program [here](http://projectgus.github.io/hairless-midiserial/)
-* Make sure that the [baud rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino),Serial monitor and the Hairless MIDI are the same:
+* Make sure that the [baud rate of the arduino](MIDI_Keyboard/MIDI_Keyboard.ino) and the Hairless MIDI are the same:
 
 ![](images/BridgeRate.PNG) ![](images/ArduRate.PNG)
 
-![](images/MonitorRate.PNG)
-
 You can access the settings tab of the Hairless MIDI by:  
 File-->Preferences
+
+
 
 ---
